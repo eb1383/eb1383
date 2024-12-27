@@ -1,13 +1,13 @@
 # Hi, I'm Ellie! 👋
 
-I am a data analyst with experience in epidemiology. Here's a bit about me:
+I am a data analyst with experience in epidemiology. I have just completed my PhD with the National Institute for Health Research (NIHR), focusing on surveillance data for Campylobacter and analysing disease patterns using area-level statistics. 
 
 ## About Me
 
-- 🔭 I’m currently working on using BigQuery AutoML to build a regression model that predicts disease rates based on small-area characteristics.
-- 🌱 I’m currently improvining (and learning) with SQL, Python and PowerBI.
-- 👯 I’m looking to collaborate on any analytics projects working with spatial data.
-- ⚡ Fun fact: I have a speed boat license!
+- 🔭 I am currently using BigQuery AutoML to build a regression model that predicts disease rates based on small-area characteristics.
+- 🌱 I am continuously improving my skills in SQL, Python, and PowerBI.
+- 👯 I am looking to collaborate on any analytics projects working with spatial data. My expertise in handling and analysing geographic information systems (GIS) data can be valuable for projects that require spatial analysis.
+- ⚡ Fun fact: I have been stuck upside down in a cave 
 
 ## Skills
 
