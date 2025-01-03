@@ -1,4 +1,4 @@
-# Hi, I'm Ellie! 👋
+# Hi 👋
 
 I am a data analyst with experience in epidemiology. I have just completed my PhD with the National Institute for Health Research (NIHR), focusing on surveillance data for Campylobacter and analysing disease patterns using area-level statistics. 
 
@@ -13,8 +13,8 @@ I am a data analyst with experience in epidemiology. I have just completed my Ph
 
 Here are some of the technologies and tools I work with:
 
-- Languages: R, Python
-- Tools: PowerBI, Tableau
+- Languages: R, Python, SQL
+- Tools: PowerBI
 - Databases: MySQL, PostgreSQL
 
 ## GitHub Stats
