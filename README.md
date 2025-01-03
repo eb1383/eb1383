@@ -32,9 +32,6 @@ Here are some of my notable projects:
 - [Project 1](https://github.com/eb1383/LoadNetCDF): R-pipeline to extract and analyse high-resolution gridded climate data, facilitating the analysis with surveillance data.
 - [Project 2](https://github.com/eb1383/MCMC): Bayesian hierarchical model to estimate infection rates based on travel and genetic data, while accounting for missing or incomplete data.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ellie-brown-306143336/)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
 
