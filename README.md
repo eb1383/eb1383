@@ -24,7 +24,7 @@ I'm a **statistician and data scientist** with a **PhD in Statistics** from the 
 
 ## 🔬 Notable Projects  
 
-### 🔹 **[Climate Data Processing & Surveillance Analysis](https://github.com/eb1383/LoadNetCDF)**  
+### 🔹 **[Climate Data Processing](https://github.com/eb1383/LoadNetCDF)**  
 
 🌍 **How does climate affect health?** This R-based **climate-epidemiology pipeline** integrates **high-resolution gridded climate data** with **public health surveillance datasets** to explore links between **temperature and disease trends**.  
 
