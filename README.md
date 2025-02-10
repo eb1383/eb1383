@@ -1,38 +1,61 @@
-# Hi 👋
+# Hi there! 👋  
 
-I am a statistician with a PhD in Statistics from the University of Warwick. My expertise lies in machine learning, time series analysis, forecasting, and modelling, with a strong foundation in Python and R . I have experience working with complex public health surveillance datasets, ensuring data integrity, and delivering actionable insights through analytical projects.
+I'm a **statistician and data scientist** with a **PhD in Statistics** from the **University of Warwick 🎓**. My work sits at the intersection of **data science, public health, and epidemiology**, where I transform complex datasets into **actionable insights** that support evidence-based decision-making. I specialise in **machine learning, time series analysis, forecasting, and geospatial modelling**, with strong technical expertise in **Python, R, and SQL**. Beyond the numbers, I **bridge the gap between data and decision-making**, ensuring that findings are **clear, impactful, and accessible** to diverse audiences—from policymakers to frontline practitioners.  
 
-## About Me
+---
 
-- 🔭 I am currently working on data migration and predictive modeling projects.
-- 🌱 I am continuously improving my skills in SQL, Python, and Power BI.
-- 👯 I am looking to collaborate on open-source projects related to data science and machine learning.
-- ⚡ Fun fact: I have been stuck upside down in a cave 
+## 🚀 About Me  
 
-## Skills
+- 🔭 **Currently working on:** Data migration, predictive modelling, and climate-health research.  
+- 🌱 **Always learning:** Enhancing my expertise in **SQL, Python, and Power BI**.  
+- 👯 **Looking to collaborate on:** **Open-source projects** related to **data science, epidemiology, and climate analytics**.  
+- 🎤 **Presenter & communicator:** Experienced in **national and international conferences** on data-driven public health strategies.  
+- ⚡ **Fun fact:** I've been **stuck upside down** in three different countries! 🧗‍♂️😅  
 
-Here are some of the technologies and tools I work with:
+---
 
-- Languages: R, Python, SQL
-- Tools: PowerBI
-- Databases: PostgreSQL
+## 🛠️ Skills & Tools  
 
-## GitHub Stats
+### **Technical Expertise**  
+- **Programming:** 🐍 Python | 📊 R | 🗄️ SQL  
+- **Data Engineering & Visualisation:** 📊 Power BI | 📡 PostgreSQL  
 
-![eb1383's GitHub stats](https://github-readme-stats.vercel.app/api?username=eb1383&show_icons=true&theme=radical)
+---
 
-## Top Languages
+## 🔬 Notable Projects  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eb1383&layout=compact&theme=radical)
+### 🔹 **[Climate Data Processing & Surveillance Analysis](https://github.com/eb1383/LoadNetCDF)**  
 
-## Projects
+🌍 **How does climate affect health?** This R-based **climate-epidemiology pipeline** integrates **high-resolution gridded climate data** with **public health surveillance datasets** to explore links between **temperature and disease trends**.  
 
-Here are some of my notable projects:
+🔹 **Key Features:**  
+- 📡 **Extracting NetCDF Climate Data:** Processes daily **maximum temperature (`tasmax`)** from NetCDF datasets.  
+- 🏡 **Geospatial Integration:** Aligns temperature data with **LSOA (Lower Super Output Area) shapefiles** for local-level analysis.  
+- 🔄 **Automated Data Processing:** Standardises and cleans inconsistencies in metadata across sources.  
+- 📊 **Prepares Data for Analysis:** Generates structured datasets for statistical modelling and policy evaluation.  
 
-- [Project 1](https://github.com/eb1383/LoadNetCDF): R-pipeline to extract and analyse high-resolution gridded climate data, facilitating the analysis with surveillance data.
-- [Project 2](https://github.com/eb1383/MCMC): Bayesian hierarchical model to estimate infection rates based on travel and genetic data, while accounting for missing or incomplete data.
+💡 **Impact:** This pipeline helps researchers and policymakers **understand climate-driven health risks**, improving early warning systems for disease outbreaks.  
+
+---
+
+### 🔹 **[MCMC Bayesian Model for Infection Estimation](https://github.com/eb1383/MCMC)**  
+
+🧬 **How can we estimate disease spread with incomplete data?** This project applies a **Bayesian hierarchical model** using **Markov Chain Monte Carlo (MCMC)** methods to estimate **infection rates** based on **travel and genetic data**.  
+
+🔹 **Key Features:**  
+- 📊 **Predictive Disease Modelling:** Uses **hierarchical Bayesian inference** to estimate hidden infections.  
+- ✈️ **Accounts for Travel Data:** Incorporates mobility patterns to model transmission pathways.  
+- 🧪 **Integrates Genetic Information:** Leverages genomic sequences for more accurate outbreak tracking.  
+- ❓ **Handles Missing Data:** Uses probabilistic methods to adjust for incomplete records.  
+
+💡 **Impact:** Provides **robust epidemiological estimates** to support **disease control strategies**, even with **limited or fragmented data**.  
+
+---
+
+## 🤝 Collaboration & Open Source  
+
+I’m always keen to **collaborate on data-driven projects** that have a real-world impact—whether, If you’re working on something cool and need **a data scientist with epidemiological expertise**, let’s connect! 🚀  
 
 
-Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
 
 
