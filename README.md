@@ -1,12 +1,12 @@
 # Hi 👋
 
-I am a data analyst with experience in epidemiology. I have just completed my PhD with the National Institute for Health Research (NIHR), focusing on surveillance data for Campylobacter and analysing disease patterns using area-level statistics. 
+I am a statistician with a PhD in Statistics from the University of Warwick. My expertise lies in machine learning, time series analysis, forecasting, and modelling, with a strong foundation in Python and R . I have experience working with complex public health surveillance datasets, ensuring data integrity, and delivering actionable insights through analytical projects.
 
 ## About Me
 
-- 🔭 I am currently using BigQuery AutoML to build a regression model that predicts disease rates based on small-area characteristics.
-- 🌱 I am continuously improving my skills in SQL, Python, and PowerBI.
-- 👯 I am looking to collaborate on any analytics projects working with spatial data. My expertise in handling and analysing geographic information systems (GIS) data can be valuable for projects that require spatial analysis.
+- 🔭 I am currently working on data migration and predictive modeling projects.
+- 🌱 I am continuously improving my skills in SQL, Python, and Power BI.
+- 👯 I am looking to collaborate on open-source projects related to data science and machine learning.
 - ⚡ Fun fact: I have been stuck upside down in a cave 
 
 ## Skills
@@ -15,7 +15,7 @@ Here are some of the technologies and tools I work with:
 
 - Languages: R, Python, SQL
 - Tools: PowerBI
-- Databases: MySQL, PostgreSQL
+- Databases: PostgreSQL
 
 ## GitHub Stats
 
