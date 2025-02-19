@@ -1,22 +1,19 @@
 # Hi there! 👋  
 
-I'm a **statistician and data scientist** with a **PhD in Statistics** from the **University of Warwick 🎓**. My work sits at the intersection of **data science, public health, and epidemiology**, where I transform complex datasets into **actionable insights** that support evidence-based decision-making. I specialise in **machine learning, time series analysis, forecasting, and geospatial modelling**, with strong technical expertise in **Python, R, and SQL**. Beyond the numbers, I **bridge the gap between data and decision-making**, ensuring that findings are **clear, impactful, and accessible** to diverse audiences—from policymakers to frontline practitioners.  
+I'm a **statistician and data scientist** with a **PhD in Health Data Science** from the **University of Warwick 🎓**. My work sits at the intersection of **data science, public health, and epidemiology**. I specialise in **machine learning, time series forecasting, and geospatial modelling**. 
 
 ---
 
 ## 🚀 About Me  
 
 - 🔭 **Currently working on:** Data migration, predictive modelling, and climate-health research.  
-- 🌱 **Always learning:** Enhancing my expertise in **SQL, Python, and Power BI**.  
 - 👯 **Looking to collaborate on:** **Open-source projects** related to **data science, epidemiology, and climate analytics**.  
-- 🎤 **Presenter & communicator:** Experienced in **national and international conferences** on data-driven public health strategies.  
-- ⚡ **Fun fact:** I've been **stuck upside down** in three different countries! 🧗‍♂️😅  
+- ⚡ **Fun fact:** I've been **stuck upside down** in three different counties! 🧗‍♂️😅  
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Tech skills   
 
-### **Technical Expertise**  
 - **Programming:** 🐍 Python | 📊 R | 🗄️ SQL  
 - **Data Engineering & Visualisation:** 📊 Power BI | 📡 PostgreSQL  
 
@@ -34,8 +31,6 @@ I'm a **statistician and data scientist** with a **PhD in Statistics** from the 
 - 🔄 **Automated Data Processing:** Standardises and cleans inconsistencies in metadata across sources.  
 - 📊 **Prepares Data for Analysis:** Generates structured datasets for statistical modelling and policy evaluation.  
 
-💡 **Impact:** This pipeline helps researchers and policymakers **understand climate-driven health risks**, improving early warning systems for disease outbreaks.  
-
 ---
 
 ### 🔹 **[MCMC Bayesian Model for Infection Estimation](https://github.com/eb1383/MCMC)**  
@@ -47,8 +42,6 @@ I'm a **statistician and data scientist** with a **PhD in Statistics** from the 
 - ✈️ **Accounts for Travel Data:** Incorporates mobility patterns to model transmission pathways.  
 - 🧪 **Integrates Genetic Information:** Leverages genomic sequences for more accurate outbreak tracking.  
 - ❓ **Handles Missing Data:** Uses probabilistic methods to adjust for incomplete records.  
-
-💡 **Impact:** Provides **robust epidemiological estimates** to support **disease control strategies**, even with **limited or fragmented data**.  
 
 ---
 
