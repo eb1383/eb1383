@@ -7,6 +7,7 @@ I'm a statistician and data scientist with a PhD in Health Data Science from the
 ## 🚀 What am I working on?  
 
 - 🧗‍♂️ Building a machine learning model to search UKC for the perfect climb (super steep, big jugs, nice scenery)
+- Finding the optimum time of year to send a boulder given temporal ascent trends
 - 🦇 Spatiotemporal analysis of cave-rescue incidents from 1980-present
 - 💪 Building an agent-based model to predict gym equipment usage
 
